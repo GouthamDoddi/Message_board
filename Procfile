@@ -1,1 +1,1 @@
-web: gunicorn message_board.wsig --log-file-
+web: gunicorn message_board.wsig --log-file -
